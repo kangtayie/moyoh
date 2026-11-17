@@ -1,0 +1,10 @@
+node_modules
+dist
+.env
+.env.local
+
+.vercel
+
+# 설문 응답 CSV와 관리자 키
+private/
+.env.import
